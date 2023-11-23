@@ -61,7 +61,7 @@ export const mockProjectDetails: Project[] = [
     {
         slug: 'webscrapper',
         tagline: 'Api created from scrapping another website',
-        img: '/images/projects/webscrapper.png',
+        img: '/images/projects/webscrapper.PNG',
         name: 'WebScrapper',
         tags: ['HTML', 'CSS', 'JavaScript'],
         category: ['web'],
