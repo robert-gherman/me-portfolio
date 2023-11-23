@@ -99,7 +99,7 @@ export const mockProjectDetails: Project[] = [
 export const mockCompanyDetails: Company[] = [
     {
         name: 'Atos',
-        logo_url: '/images/companies/atos.png',
+        logo_url: '/images/companies/Atos.png',
         featured: true,
         position: 'Web developer',
         startDate: "July'2021",
