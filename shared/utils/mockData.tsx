@@ -76,7 +76,7 @@ export const mockProjectDetails: Project[] = [
         img: '/images/projects/zoodoro.png',
         name: 'Zoodoro',
         tags: ['HTML', 'CSS', 'TypeScript'],
-        category: ['web'],
+        category: ['web', 'typescript'],
         github: 'https://github.com/robert-gherman/zoodoro',
         featured: true,
         description:
@@ -93,6 +93,42 @@ export const mockProjectDetails: Project[] = [
         featured: true,
         description:
             'The FastCars application has developed a functional platform for car reservation and rental, featuring a streamlined process and additional functionalities. Knowledge has been acquired in web application development using React, REST APIs, and databases.'
+    },
+    {
+        slug: 'rick-and-morty',
+        tagline: 'Find information about characters from the show Rick and Morty',
+        img: '/images/projects/rick-and-morty.png',
+        name: 'Rick and Morty',
+        tags: ['HTML', 'CSS', 'JavaScript'],
+        category: ['web'],
+        github: 'https://github.com/robert-gherman/rick-morty',
+        featured: false,
+        description:
+            "Explore the fascinating world of Rick and Morty with this app dedicated to providing information about the show's characters. Discover details about your favorite characters, from their quirky personalities to their roles in the interdimensional adventures. Dive into a comprehensive database that offers insights into the diverse cast of 'Rick and Morty, making it a must-have companion for fans seeking to delve deeper into the animated universe created by Dan Harmon and Justin Roiland"
+    },
+    {
+        slug: 'particle-rain',
+        tagline: 'Css Animation',
+        img: '/images/projects/particle-rain.png',
+        name: 'Particle Rain',
+        tags: ['HTML', 'CSS'],
+        category: ['web', 'CSS'],
+        github: 'https://github.com/robert-gherman/particle_rain',
+        featured: false,
+        description:
+            'Explore a sleek CSS animation featuring a pixelated rain of particles. This animation, crafted using HTML canvas and JavaScript, loads an image onto the canvas and transforms each pixel into a dynamic particle. As these particles gracefully cascade down the canvas, their speed is influenced by the brightness of the corresponding pixel, creating a visually engaging and seamless loop. With its clean and captivating design, this animation adds a touch of creativity to your web projects, offering a simple yet visually appealing element for your audience to enjoy.'
+    },
+    {
+        slug: 'todo-list',
+        tagline: 'A simple todo list',
+        img: '/images/projects/todo.png',
+        name: 'Todo list',
+        tags: ['HTML', 'CSS'],
+        category: ['web'],
+        github: 'https://github.com/robert-gherman/todolist',
+        featured: false,
+        description:
+            'Discover a straightforward and user-friendly todo list application crafted with HTML and CSS. This minimalistic todo list provides an easy-to-use interface for managing tasks efficiently. With a clean design and intuitive functionality, this application allows users to add, edit, and remove tasks effortlessly. Enjoy a clutter-free and streamlined experience as you organize your daily activities with this simple yet effective todo list.'
     }
 ];
 
