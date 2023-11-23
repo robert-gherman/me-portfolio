@@ -9,7 +9,7 @@ export const mockPersonalDetails: PersonalDetails = {
     work: {
         company: 'Atos',
         designation: 'Web developer',
-        logo: '/images/companies/atos.png',
+        logo: '/images/companies/Atos.png',
         resume: 'https://drive.google.com/file/d/1l1-gpiw6VHF1oY26EqQiSjOCEGKY5o1B/view?usp=drive_link',
         profile_img: '/images/bob.png'
     },
