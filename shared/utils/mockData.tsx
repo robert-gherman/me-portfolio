@@ -47,6 +47,30 @@ export const mockPersonalDetails: PersonalDetails = {
 
 export const mockProjectDetails: Project[] = [
     {
+        slug: 'fastcar',
+        tagline: 'Website for renting a car',
+        img: '/images/projects/fastcar.png',
+        name: 'FastCars',
+        tags: ['HTML', 'CSS', 'JavaScript'],
+        category: ['web'],
+        github: 'https://github.com/robert-gherman/fastcar',
+        featured: true,
+        description:
+            'The FastCars application has developed a functional platform for car reservation and rental, featuring a streamlined process and additional functionalities. Knowledge has been acquired in web application development using React, REST APIs, and databases.'
+    },
+    {
+        slug: 'flightTracker',
+        tagline: 'Real time tracking flights.',
+        img: '/images/projects/flightraccker.png',
+        name: 'FlightTracker',
+        tags: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
+        category: ['web', 'typescript'],
+        github: 'https://github.com/robert-gherman/FlightTracker',
+        featured: true,
+        description:
+            'The FlightTracker website offers a real-time map displaying all flights worldwide, sourced from the opensky-network.org API. Users can track flights and access detailed information about specific flights using the aviationstack.com API.'
+    },
+    {
         slug: 'wer-waldo',
         tagline: 'Test your observation skills and find Waldo hidden in the pictures.',
         img: '/images/projects/wewaldo.png',
@@ -82,18 +106,7 @@ export const mockProjectDetails: Project[] = [
         description:
             'Zoodoro is a unique productivity app that combines the principles of the Pomodoro Technique with a gamified twist. Built on a RESTful backend, it offers a personalized experience, featuring a dynamic "Container for the Current Animal" that evolves as you complete tasks. Earn virtual coins after each session, used to purchase new virtual animals for an engaging incentive system. Customize session tags for efficient organization and enjoy a seamless process for acquiring virtual animals. Zoodoro transforms work sessions into a rewarding journey of growth and achievement.'
     },
-    {
-        slug: 'fastcar',
-        tagline: 'Website for renting a car',
-        img: '/images/projects/fastcar.png',
-        name: 'FastCars',
-        tags: ['HTML', 'CSS', 'JavaScript'],
-        category: ['web'],
-        github: 'https://github.com/robert-gherman/fastcar',
-        featured: true,
-        description:
-            'The FastCars application has developed a functional platform for car reservation and rental, featuring a streamlined process and additional functionalities. Knowledge has been acquired in web application development using React, REST APIs, and databases.'
-    },
+
     {
         slug: 'rick-and-morty',
         tagline: 'Find information about characters from the show Rick and Morty',
