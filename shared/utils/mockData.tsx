@@ -5,7 +5,7 @@ import { Company, PersonalDetails, Project } from './types';
 export const mockPersonalDetails: PersonalDetails = {
     _id: '601650e62147e23bf8664148',
     name: 'Robert Gherman',
-    about: '"A fresher with experience", this line says exactly who he is. He is a react developer who crafts beautiful web and apps. His perfect balance of technical & managerial skills stands him apart from the crowd.',
+    about: '"A fresher with experience", this line says exactly who I am. I am a React developer who crafts web apps. My perfect balance of technical & managerial skills stands me apart from the crowd.',
     work: {
         company: 'Atos',
         designation: 'Web developer',

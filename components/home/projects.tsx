@@ -35,7 +35,7 @@ export default function Projects(): JSX.Element {
                                     awesome people
                                 </h1>
                                 <h1 className="mb-3 mt-6 text-4xl sm:text-2xl md:text-3xl lg:text-2xl xl:text-1xl font-extrabold text-white leading-none ">
-                                    Something he has{' '}
+                                    Something I have{' '}
                                     <span className="text-pink font-bold">built.</span>
                                 </h1>
                                 <div className="sm:ml-52 xl:ml-96 transform rotate-90">
@@ -54,7 +54,7 @@ export default function Projects(): JSX.Element {
                             <div className="w-64 h-auto shadow-light-xl hover:shadow-light-3xl transform transition-all duration-300 hover:scale-110">
                                 <TextCards
                                     heading="Websites"
-                                    text=" He adds certain special hidden recipes and making his websites look enticing."
+                                    text=" I add certain special hidden recipes and making websites look enticing."
                                     color="violet"
                                 />
                             </div>
@@ -68,7 +68,7 @@ export default function Projects(): JSX.Element {
                             <div className="w-64 h-auto shadow-light-xl hover:shadow-light-3xl transform transition-all duration-300 hover:scale-110">
                                 <TextCards
                                     heading="UI/UX"
-                                    text="He uses his outstanding engineering abilities to provide users an awesome interface and experience"
+                                    text="I use outstanding engineering abilities to provide users an awesome interface and experience"
                                     color="violet"
                                 />
                             </div>

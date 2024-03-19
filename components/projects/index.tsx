@@ -26,7 +26,7 @@ const ProjectsPage = (): JSX.Element => {
                     <div className="pt-10 ml-4 sm:mx-12 md:mx-16">
                         <div className="mb-10">
                             <h1 className="text-center text-3xl sm:text-2xl xl:text-3xl font-extrabold text-white leading-none mb-6">
-                                Something that he has build
+                                Something that I have build
                             </h1>
                             <p className="text-center text-sm sm:text-7xl font-light text-white leading-none mb-6">
                                 with love, expertise and pinch of magical ingredients

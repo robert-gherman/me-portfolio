@@ -25,7 +25,7 @@ export default function Skills(): JSX.Element {
                 <div className="ml-4 sm:mx-12 md:mx-16 grid grid-cols-12 gap-4 h-auto place-items-center items-center">
                     <div className="col-span-12 md:col-span-7 lg:col-span-6 flex flex-col justify-center items-center">
                         <div className="items-center w-3/4 relative">
-                            <HeaderSmall text="What does he do?" />
+                            <HeaderSmall text="What do I do?" />
                             <h1 className="sm:w-4/5 mb-3 mt-1 text-7xl sm:text-5xl md:text-7xl lg:text-5xl font-normal tracking-wide text-white leading-normal lg:leading-7">
                                 Committed to delivering high-quality code and creating engaging user
                                 experiences. Eager to contribute to a collaborative team and
