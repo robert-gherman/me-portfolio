@@ -10,7 +10,7 @@ export const mockPersonalDetails: PersonalDetails = {
         company: 'Atos',
         designation: 'Web developer',
         logo: '/images/companies/Atos.png',
-        resume: 'https://drive.google.com/file/d/1l1-gpiw6VHF1oY26EqQiSjOCEGKY5o1B/view?usp=drive_link',
+        resume: 'https://drive.google.com/file/d/1atItV0t2DwrS1_aKHQcR1otvDumoizQo/view?usp=sharing',
         profile_img: '/images/bob.png'
     },
     socialMedia: [
